@@ -5,8 +5,6 @@ import clsx from "clsx";
 
 const dmSans = DM_Sans({ subsets: ["latin"] });
 
-//TODO: add title and description in metadata
-
 export const metadata: Metadata = {
   title: "AI SaaS for Business Productivity | Landing Page",
   description:

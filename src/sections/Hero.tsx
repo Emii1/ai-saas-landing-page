@@ -6,7 +6,6 @@ import noodleImg from "@/assets/noodle.png";
 
 export const Hero = () => {
   return (
-    //TODO: remove the gradient?
     <section className="pt-8 pb-20 md:pt-5 md:pb-10 bg-[radial-gradient(ellipse_200%_100%_at_bottom_left,#183EC2,#EAEEFE_100%)] overflow-x-clip">
       <div className="container">
         <div className="md:flex items-center">
