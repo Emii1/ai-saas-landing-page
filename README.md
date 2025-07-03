@@ -33,3 +33,7 @@ A sleek, accessible, and SEO-optimized SaaS landing page built with modern web t
 ✅ Alt-text test running with Playwright  
 🚧 **Work in Progress**: additional improvements and features are being added
 
+---
+## 🔗 Live Demo
+👉 Deployed app: https://ai-saas-landing-page-pink.vercel.app/
+
